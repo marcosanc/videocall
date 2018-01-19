@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">videocall</string>
+    <string name="action_settings">Settings</string>
+    <string name="room_status">Status</string>
+
+    <string name="permissions_needed">Permisos de cámara y micrófono necesarios. Por favor, permita en la Configuración de la Aplicación para una funcionalidad adicional.</string>
+    <string name="error_retrieving_access_token">Error al recuperar el token</string>
+</resources>

@@ -1,0 +1,3 @@
+-keep class org.webrtc.** { *; }
+-keep class com.twilio.video.** { *; }
+-keepattributes InnerClasses
